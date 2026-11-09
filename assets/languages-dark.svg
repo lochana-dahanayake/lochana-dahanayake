@@ -7,10 +7,10 @@
 <text x="28" y="68" font-size="13" fill="#e6edf3">JavaScript</text>
 <rect x="148" y="61" width="204.0" height="6" rx="3" fill="#21262d"/>
 <rect x="148" y="61" width="204.0" height="6" rx="3" fill="#3987e5"/>
-<text x="396" y="68" font-size="12" fill="#7d8590" text-anchor="end">35.8%</text>
+<text x="396" y="68" font-size="12" fill="#7d8590" text-anchor="end">35.7%</text>
 <text x="28" y="104" font-size="13" fill="#e6edf3">TypeScript</text>
 <rect x="148" y="97" width="204.0" height="6" rx="3" fill="#21262d"/>
-<rect x="148" y="97" width="155.4" height="6" rx="3" fill="#3987e5"/>
+<rect x="148" y="97" width="155.5" height="6" rx="3" fill="#3987e5"/>
 <text x="396" y="104" font-size="12" fill="#7d8590" text-anchor="end">27.2%</text>
 <text x="28" y="140" font-size="13" fill="#e6edf3">Java</text>
 <rect x="148" y="133" width="204.0" height="6" rx="3" fill="#21262d"/>
